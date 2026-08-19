@@ -1,0 +1,2491 @@
+﻿[
+  {
+    "id": "ms781lwu0f232e5e",
+    "code": "SPU-TEST-CAT",
+    "name": "SPU-TEST-CAT",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:58:10.732Z",
+    "updatedAt": "2026-07-30T11:33:30.135Z"
+  },
+  {
+    "id": "ms77kw07eb0bf0b7",
+    "code": "DESK-OD-ONE001",
+    "name": "DESK-OD-ONE001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07ebf6d126",
+    "code": "DESK-OD-ONE002",
+    "name": "DESK-OD-ONE002",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw075c4ba2c1",
+    "code": "DESK-OD-ONE003",
+    "name": "DESK-OD-ONE003",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07a5d87611",
+    "code": "DESK-DBD-CD01",
+    "name": "DESK-DBD-CD01",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07923ca837",
+    "code": "DESK-OD-CSZ001",
+    "name": "DESK-OD-CSZ001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0740fabfe2",
+    "code": "DESK-OD-HYZD001",
+    "name": "DESK-OD-HYZD001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07a1915d44",
+    "code": "DESK-OD-ONE004",
+    "name": "DESK-OD-ONE004",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0790440468",
+    "code": "DESK-OD-ZWZD01",
+    "name": "DESK-OD-ZWZD01",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0736874479",
+    "code": "DESK-SD-ZW212",
+    "name": "DESK-SD-ZW212",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0733dbdf4b",
+    "code": "DESK-GD-STY00",
+    "name": "DESK-GD-STY00",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0701d21253",
+    "code": "DESK-GD-HWY00",
+    "name": "DESK-GD-HWY00",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw077b3f0d07",
+    "code": "DESK-GD-HWTG",
+    "name": "DESK-GD-HWTG",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07b69c7c4d",
+    "code": "DESK-GD-HW2ZX",
+    "name": "DESK-GD-HW2ZX",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07a8980a05",
+    "code": "DESK-GD-HW2TA",
+    "name": "DESK-GD-HW2TA",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07d1510564",
+    "code": "DESK-OD-SS001",
+    "name": "DESK-OD-SS001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw078c9c59e1",
+    "code": "DESK-GD-STYBO",
+    "name": "DESK-GD-STYBO",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07d66477c4",
+    "code": "DESK-SD-ZYZSZ001",
+    "name": "DESK-SD-ZYZSZ001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw071ea87913",
+    "code": "DESK-SD-ZWLV",
+    "name": "DESK-SD-ZWLV",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0737e9808d",
+    "code": "DESK-GD-LTZ002",
+    "name": "DESK-GD-LTZ002",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw070994f70e",
+    "code": "DESK-SD-ZYZJZ001",
+    "name": "DESK-SD-ZYZJZ001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07ad73941a",
+    "code": "DESK-SD-ZW0220",
+    "name": "DESK-SD-ZW0220",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw079ee7efe8",
+    "code": "PSB1450W",
+    "name": "PSB1450W",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw07b851acda",
+    "code": "PSB1118W",
+    "name": "PSB1118W",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw065d965fb4",
+    "code": "PCL10A1",
+    "name": "PCL10A1",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0646c71b18",
+    "code": "DESK-SD-MX001",
+    "name": "DESK-SD-MX001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0626cd8360",
+    "code": "SC2131",
+    "name": "SC2131",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw062239dbde",
+    "code": "HAD1210",
+    "name": "HAD1210",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw06ae072caf",
+    "code": "DESK-OD-CSD001",
+    "name": "DESK-OD-CSD001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0684d080cd",
+    "code": "DESK-GD-STT20",
+    "name": "DESK-GD-STT20",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw063e7ffef7",
+    "code": "HAD021",
+    "name": "HAD021",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw06c5076255",
+    "code": "PC200",
+    "name": "PC200",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw06cd03eac1",
+    "code": "PC210",
+    "name": "PC210",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw060e92300a",
+    "code": "DESK-GD-HW2ZU",
+    "name": "DESK-GD-HW2ZU",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw06762e253d",
+    "code": "GD22-0029",
+    "name": "GD22-0029",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw069b884953",
+    "code": "PCS22-0027",
+    "name": "PCS22-0027",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw063e920823",
+    "code": "PSB22-0052",
+    "name": "PSB22-0052",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05002b1403",
+    "code": "PSB22-0059",
+    "name": "PSB22-0059",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05f6cc0f91",
+    "code": "GD22-0071",
+    "name": "GD22-0071",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw059266d0e2",
+    "code": "PSB22-0076",
+    "name": "PSB22-0076",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0520c0b62f",
+    "code": "PSB22-0075",
+    "name": "PSB22-0075",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0548714173",
+    "code": "PSB22-0082",
+    "name": "PSB22-0082",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw058aa5d9bf",
+    "code": "PCS22-0094",
+    "name": "PCS22-0094",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms8euqnl3252134c",
+        "src": "/uploads/ms77kw058aa5d9bf/ms8euq3pa7646d9a.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kw058aa5d9bf/ms8euq3pa7646d9a.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": "",
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:33.777Z"
+  },
+  {
+    "id": "ms77kw05161e9df1",
+    "code": "HADST001",
+    "name": "HADST001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05d4a8c656",
+    "code": "HAD114",
+    "name": "HAD114",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0560203cb1",
+    "code": "IB22-0100",
+    "name": "IB22-0100",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05e1ceb2f2",
+    "code": "HAD22-0102",
+    "name": "HAD22-0102",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0516277fbc",
+    "code": "PSB1380R",
+    "name": "PSB1380R",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05aa8cf10d",
+    "code": "GD22-0015",
+    "name": "GD22-0015",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05bad2ea9e",
+    "code": "HAD22-0145",
+    "name": "HAD22-0145",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0526512e08",
+    "code": "HAD22-0146",
+    "name": "HAD22-0146",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw059e9f26a7",
+    "code": "OD22-0152",
+    "name": "OD22-0152",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05de055627",
+    "code": "SDF102DM",
+    "name": "SDF102DM",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0509381037",
+    "code": "HAD22-0060",
+    "name": "HAD22-0060",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05dbae0bbd",
+    "code": "PSB1195",
+    "name": "PSB1195",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05d5ab03f8",
+    "code": "PSB1460",
+    "name": "PSB1460",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05005cbddc",
+    "code": "HAD22-0162",
+    "name": "HAD22-0162",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw056a9abb56",
+    "code": "HAD1410",
+    "name": "HAD1410",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw053da93bd4",
+    "code": "CB23-0172",
+    "name": "CB23-0172",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0566f3cedf",
+    "code": "HAD23-0185",
+    "name": "HAD23-0185",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw059236b956",
+    "code": "PSB22-0094",
+    "name": "PSB22-0094",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0526ba5c16",
+    "code": "DESK-GD-LTZ001",
+    "name": "DESK-GD-LTZ001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05247ee704",
+    "code": "PD23-0211",
+    "name": "PD23-0211",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw05a7f4128b",
+    "code": "HAD23-0223",
+    "name": "HAD23-0223",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw04916117d3",
+    "code": "GD23-0206",
+    "name": "GD23-0206",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw04b3c5a89a",
+    "code": "HAD23-0226",
+    "name": "HAD23-0226",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw04e48f7b30",
+    "code": "PSB22-0089",
+    "name": "PSB22-0089",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0498988cc5",
+    "code": "DESK-GD-LTL001",
+    "name": "DESK-GD-LTL001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw04f5cbcc03",
+    "code": "OD23-0282",
+    "name": "OD23-0282",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw04adbd9b1c",
+    "code": "OD23-0293",
+    "name": "OD23-0293",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0442937f17",
+    "code": "PSB23-0308",
+    "name": "PSB23-0308",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw046b1bab9e",
+    "code": "HDA23-0349",
+    "name": "HDA23-0349",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0345cbe368",
+    "code": "OD23-0371",
+    "name": "OD23-0371",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw03116f73cf",
+    "code": "DESK-OD-HYCW001",
+    "name": "DESK-OD-HYCW001",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw03b8c29d09",
+    "code": "GD23-0418",
+    "name": "GD23-0418",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw03f040feab",
+    "code": "OD22-0048",
+    "name": "OD22-0048",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw03ca87f90c",
+    "code": "GD22-0233",
+    "name": "GD22-0233",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw033140715a",
+    "code": "GD22-0054",
+    "name": "GD22-0054",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw03f2cf939e",
+    "code": "OD24-0533",
+    "name": "OD24-0533",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0352f528eb",
+    "code": "OD24-0565",
+    "name": "OD24-0565",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw02da82ed3f",
+    "code": "PSB24-0651",
+    "name": "PSB24-0651",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms7fyp4b1ce08a01",
+        "src": "/uploads/ms77kw02da82ed3f/ms7fyow1b8748e74.pdf",
+        "note": "PSB24-0651 \u5B89\u88C5\u8BF4\u660E\u4E66",
+        "kind": "install",
+        "preview": "/uploads/ms77kw02da82ed3f/ms7fyow1b8748e74.pdf.preview.png"
+      },
+      {
+        "id": "ms8euvtwa0999abf",
+        "src": "/uploads/ms77kw02da82ed3f/ms8euvdf6217d827.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kw02da82ed3f/ms8euvdf6217d827.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:40.484Z"
+  },
+  {
+    "id": "ms77kw02e64f9320",
+    "code": "CRT24-0710",
+    "name": "CRT24-0710",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw028f456c7e",
+    "code": "HAD23-0354",
+    "name": "HAD23-0354",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0220eda498",
+    "code": "DESK-SD-ZW0444",
+    "name": "DESK-SD-ZW0444",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw02ae1a3b90",
+    "code": "PCS24-0720",
+    "name": "PCS24-0720",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw02e88804cc",
+    "code": "PC220",
+    "name": "PC220",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms8eup1557358291",
+        "src": "/uploads/ms77kw02e88804cc/ms8euodycdfa86f0.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kw02e88804cc/ms8euodycdfa86f0.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:31.674Z"
+  },
+  {
+    "id": "ms77kw0212fb3b1b",
+    "code": "PSB24-0664",
+    "name": "PSB24-0664",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms7fej3t86e8e78f",
+        "src": "/uploads/ms77kw0212fb3b1b/ms7feijicfe34a45.pdf",
+        "note": "",
+        "kind": "install",
+        "preview": "/uploads/ms77kw0212fb3b1b/ms7feijicfe34a45.pdf.preview.png"
+      },
+      {
+        "id": "ms8euw88ea65b1a5",
+        "src": "/uploads/ms77kw0212fb3b1b/ms8euvu681f825e5.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kw0212fb3b1b/ms8euvu681f825e5.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:41.000Z"
+  },
+  {
+    "id": "ms77kw02f124bac7",
+    "code": "PSB24-0730",
+    "name": "PSB24-0730",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms7fekk5d6027c9c",
+        "src": "/uploads/ms77kw02f124bac7/ms7fejzreb9de88d.pdf",
+        "note": "",
+        "kind": "install",
+        "preview": "/uploads/ms77kw02f124bac7/ms7fejzreb9de88d.pdf.preview.png"
+      },
+      {
+        "id": "ms8euwuefd9d17fb",
+        "src": "/uploads/ms77kw02f124bac7/ms8euwk14ad7f2ec.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kw02f124bac7/ms8euwk14ad7f2ec.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:41.798Z"
+  },
+  {
+    "id": "ms77kw02fd15ba8f",
+    "code": "PSB24-0679",
+    "name": "PSB24-0679",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m3dd19b046ad44d1fb6560be8c7b8866a",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB24-0679B-0/T-PSB24-0679B-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB24-0679B-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m36cc753abfe74441bde3b3a8e6533eb7",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB24-0679B-0/T-PSB24-0679B-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB24-0679B-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kw016df111ea",
+    "code": "OD23-0292",
+    "name": "OD23-0292",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0183092eb7",
+    "code": "CRT24-0544",
+    "name": "CRT24-0544",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw01fd8b0360",
+    "code": "OD24-0566",
+    "name": "OD24-0566",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw016463d6c8",
+    "code": "PSB23-0395",
+    "name": "PSB23-0395",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m0513879814084732982a2f62b293ddba",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB23-0395-0/V-PSB23-0395-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB23-0395-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m834b71cb87ca42fe8cc36b55c324cb83",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB23-0395-0/V-PSB23-0395-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB23-0395-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kw014af03205",
+    "code": "DESK-BD-TF960R",
+    "name": "DESK-BD-TF960R",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0181119fae",
+    "code": "PCS24-0670",
+    "name": "PCS24-0670",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m9cfa5b3a97e946178d5271ed8c478212",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PCS24-0670-00/V-PCS24-0670-00-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PCS24-0670-00)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m10055ef1f2884004ae5c8fd6a676badb",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PCS24-0670-00/V-PCS24-0670-00-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PCS24-0670-00)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kw0176643fc2",
+    "code": "PCS24-0669",
+    "name": "PCS24-0669",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms8eur5fc9e7eecf",
+        "src": "/uploads/ms77kw0176643fc2/ms8euqo17e09120f.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kw0176643fc2/ms8euqo17e09120f.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:34.419Z"
+  },
+  {
+    "id": "ms77kw0090230df5",
+    "code": "HAD24-0449",
+    "name": "HAD24-0449",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw00036e7145",
+    "code": "HAD24-0440",
+    "name": "HAD24-0440",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw00944bbe7d",
+    "code": "HAD25-0909",
+    "name": "HAD25-0909",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw004ea663b8",
+    "code": "BT25-0995",
+    "name": "BT25-0995",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw0039572ee9",
+    "code": "HAD25-0937",
+    "name": "HAD25-0937",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kw00780c515f",
+    "code": "PSB24-0729",
+    "name": "PSB24-0729",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ma94735eece44400aae226a8053c84e1a",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB24-0729B-0/V-PSB24-0729B-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB24-0729B-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mfdb06e9899114de0a7c61d0b87010d01",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB24-0729B-0/V-PSB24-0729B-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB24-0729B-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzzc497fd85",
+    "code": "DESK-GD-Z0BK",
+    "name": "DESK-GD-Z0BK",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzz7e928a7e",
+    "code": "AT25-0997",
+    "name": "AT25-0997",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms8eukyn8551a751",
+        "src": "/uploads/ms77kvzz7e928a7e/ms8eukgjddfb8cb4.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kvzz7e928a7e/ms8eukgjddfb8cb4.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:26.399Z"
+  },
+  {
+    "id": "ms77kvzz3ada5fad",
+    "code": "HAD24-0549",
+    "name": "HAD24-0549",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzz54948e98",
+    "code": "AT25-1016",
+    "name": "AT25-1016",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms8eum7m7e4ca65c",
+        "src": "/uploads/ms77kvzz54948e98/ms8euliy95241daa.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kvzz54948e98/ms8euliy95241daa.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:28.018Z"
+  },
+  {
+    "id": "ms77kvzzb51001a5",
+    "code": "AT25-1015",
+    "name": "AT25-1015",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms8eulig28173217",
+        "src": "/uploads/ms77kvzzb51001a5/ms8eukzfdefc3c51.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kvzzb51001a5/ms8eukzfdefc3c51.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:27.113Z"
+  },
+  {
+    "id": "ms77kvzzd0cb0147",
+    "code": "OD25-1029",
+    "name": "OD25-1029",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzz7b0b70e1",
+    "code": "PLT24-0701",
+    "name": "PLT24-0701",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms7g76pe6ced7633",
+        "src": "/uploads/ms77kvzz7b0b70e1/ms7g76p1aea751a7.pdf",
+        "note": "",
+        "kind": "install",
+        "preview": "/uploads/ms77kvzz7b0b70e1/ms7g76p1aea751a7.pdf.preview.png"
+      },
+      {
+        "id": "ms8eus708db9d23c",
+        "src": "/uploads/ms77kvzz7b0b70e1/ms8eurmj986b7b6e.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kvzz7b0b70e1/ms8eurmj986b7b6e.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:35.772Z"
+  },
+  {
+    "id": "ms77kvzz1cceef0d",
+    "code": "HAD25-1046",
+    "name": "HAD25-1046",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzz0d986dfa",
+    "code": "HAD25-1047",
+    "name": "HAD25-1047",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzz9d0c8d22",
+    "code": "AT25-1057",
+    "name": "AT25-1057",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms8eumq48f99bd75",
+        "src": "/uploads/ms77kvzz9d0c8d22/ms8eum7xce1e3f0b.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kvzz9d0c8d22/ms8eum7xce1e3f0b.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:28.684Z"
+  },
+  {
+    "id": "ms77kvzz67ad2503",
+    "code": "PCL23-0186",
+    "name": "PCL23-0186",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mf3fe9c34c9b846689a7fd3a5c648beab",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PCL23-0186A-0/V-PCL23-0186A-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PCL23-0186A-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mb1851633d1c8479697158f18d7d172cb",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PCL23-0186A-0/V-PCL23-0186A-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PCL23-0186A-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzzf6300546",
+    "code": "DF24-0596",
+    "name": "DF24-0596",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m391305cc440148d99d120833f95d20f3",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-DF24-0596-0/V-DF24-0596-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-DF24-0596-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m742e440a65cb4ca9b8cb4c04c9761ac8",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-DF24-0596-0/V-DF24-0596-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-DF24-0596-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzz85c5c1cb",
+    "code": "PSB25-1082",
+    "name": "PSB25-1082",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m29e8e060efff4acb9dcd5faad3eb5fcb",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB25-1082-BK/T-PSB25-1082-BK-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB25-1082-BK)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m2c53d15d4315457b9ee3355d004cb6b1",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB25-1082-BK/T-PSB25-1082-BK-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB25-1082-BK)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy4d60d3d9",
+    "code": "LCRC24-0431",
+    "name": "LCRC24-0431",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m24cc511455f542a5b5e80b158ce532d5",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-LCRC24-0431-0/T-LCRC24-0431-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-LCRC24-0431-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mcd630e03069045dbb15a60631ef80bfe",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-LCRC24-0431-0/T-LCRC24-0431-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-LCRC24-0431-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy44f7f856",
+    "code": "AT25-1231",
+    "name": "AT25-1231",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzyab18f69e",
+    "code": "POL25-1244",
+    "name": "POL25-1244",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ma59f7340da804fdeab398755b458a401",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-POL25-1244-2/T-POL25-1244-2-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-POL25-1244-2)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m4ccbeb3294d642b18750664ba32c9850",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-POL25-1244-2/T-POL25-1244-2-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-POL25-1244-2)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy89e7c1c0",
+    "code": "PCS24-0715",
+    "name": "PCS24-0715",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms7garctcbf16b71",
+        "src": "/uploads/ms77kvzy89e7c1c0/ms7garclb686bca5.pdf",
+        "note": "",
+        "kind": "install",
+        "preview": "/uploads/ms77kvzy89e7c1c0/ms7garclb686bca5.pdf.preview.png"
+      },
+      {
+        "id": "ms8eurm8e6335422",
+        "src": "/uploads/ms77kvzy89e7c1c0/ms8eur5ob231cec7.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kvzy89e7c1c0/ms8eur5ob231cec7.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:35.024Z"
+  },
+  {
+    "id": "ms77kvzy455cf944",
+    "code": "PCS25-1273",
+    "name": "PCS25-1273",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m632add5f904f4f239a85b7406e8feae6",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS25-1273-0/T-PCS25-1273-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS25-1273-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m4ce67879333c402ca342ff4732493041",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS25-1273-3/T-PCS25-1273-3-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS25-1273-3)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy912b8190",
+    "code": "PCS25-1274",
+    "name": "PCS25-1274",
+    "note": "",
+    "manuals": [
+      {
+        "id": "me45c73a4d2444664a838760ab73e7feb",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS25-1274-0-2/T-PCS25-1274-0-2-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS25-1274-0-2)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m8d5a2ed1d3ce42b5a8504c5cb88fee47",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS25-1274-0/T-PCS25-1274-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS25-1274-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzyfb829f2d",
+    "code": "HR24-0789",
+    "name": "HR24-0789",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mbf61eb2c47804a1682f90f10cc0f700c",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-HR24-0789A-0/T-HR24-0789A-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-HR24-0789A-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mb03b0ad0429e4a76914baa57dae66a71",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-HR24-0789A-0/T-HR24-0789A-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-HR24-0789A-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzya90a4e82",
+    "code": "PSB25-1289",
+    "name": "PSB25-1289",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m43d8b8b1016e43008593dd06338f09cf",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB25-1289-0/V-PSB25-1289-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB25-1289-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "md4e1712848054c519ee7cb1da2d3bc74",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB25-1289-0/V-PSB25-1289-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB25-1289-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzyc4a7c606",
+    "code": "PSB24-0432",
+    "name": "PSB24-0432",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mf317e5148bca4ca1b23fff22a18e39a3",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB24-0432-0/V-PSB24-0432-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB24-0432-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m1797eb1f9c234426883d55f3f01bb7c4",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB24-0432-0/V-PSB24-0432-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB24-0432-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy754ed009",
+    "code": "PLT25-1319",
+    "name": "PLT25-1319",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m4000ab345a104d74a866fa999400f1a7",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PLT25-1319-LT0-2/T-PLT25-1319-LT0-2-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PLT25-1319-LT0-2)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m8ebcce24c0734748bf8533327fc466ab",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PLT25-1319-L0-2/T-PLT25-1319-L0-2-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PLT25-1319-L0-2)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy55680c31",
+    "code": "PCL25-1320",
+    "name": "PCL25-1320",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m02a052c9d0824735ad2c22a0b3ca7ab2",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCL25-1320-0-2/T-PCL25-1320-0-2-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCL25-1320-0-2)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mb459a5f3d70a4ea0a2c65cef2241d1ea",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCL25-1320-0-2/T-PCL25-1320-0-2-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCL25-1320-0-2)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzycc4bbde8",
+    "code": "PSB23-0313",
+    "name": "PSB23-0313",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mbaa6ded24b284676ab45d950c1bb433a",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB23-0313-0/V-PSB23-0313-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB23-0313-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mdfb01c29869f4e25a533432645264dca",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB23-0313-0/V-PSB23-0313-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB23-0313-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy8ffb7588",
+    "code": "PSB23-0312",
+    "name": "PSB23-0312",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mf6bb75af91774e0796ed02cd41724ead",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB23-0312-0/V-PSB23-0312-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB23-0312-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "md4c329ef676046c494b94e1198e4ab7b",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB23-0312-0/V-PSB23-0312-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB23-0312-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzye8595c13",
+    "code": "PSB25-1324",
+    "name": "PSB25-1324",
+    "note": "",
+    "manuals": [
+      {
+        "id": "ms8euxgwd0e01872",
+        "src": "/uploads/ms77kvzye8595c13/ms8eux563291d135.pdf",
+        "note": "",
+        "kind": "accessory",
+        "preview": "/uploads/ms77kvzye8595c13/ms8eux563291d135.pdf.preview.png"
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-31T03:56:42.608Z"
+  },
+  {
+    "id": "ms77kvzy1a0ceb1b",
+    "code": "PCS25-1325",
+    "name": "PCS25-1325",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m8e0f03e72bcb441f88b341a943d2f6fd",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS25-1325-0/T-PCS25-1325-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS25-1325-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mdc3373047fd04d15b132d1098fcc854c",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS25-1325-0/T-PCS25-1325-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS25-1325-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzyaeda8dee",
+    "code": "HAD25-1021",
+    "name": "HAD25-1021",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzy18a35d47",
+    "code": "PPB26-1344",
+    "name": "PPB26-1344",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m7e972c88fb5e403c982455e40596b5ac",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PPB26-1344-8/T-PPB26-1344-8-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PPB26-1344-8)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m9299d24a70964fb7a10bf3e9e31330da",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PPB26-1344-8/T-PPB26-1344-8-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PPB26-1344-8)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzya49c6533",
+    "code": "PPB26-1345",
+    "name": "PPB26-1345",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mda14e93ea6ed481d9cc3c03b99be2473",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PPB26-1345-8/T-PPB26-1345-8-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PPB26-1345-8)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m91771ea15d9c4ec6aee950c12cd767e1",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PPB26-1345-8/T-PPB26-1345-8-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PPB26-1345-8)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy9e0b630f",
+    "code": "PSB26-1342",
+    "name": "PSB26-1342",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzy68c092ed",
+    "code": "PSB22-0093",
+    "name": "PSB22-0093",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m7a7d242f2e7844e8b23e39b75568bd53",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB22-0093B-0/V-PSB22-0093B-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB22-0093B-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m14b7650e70c5419aabbd08761ef0b637",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB22-0093B-0/V-PSB22-0093B-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB22-0093B-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy84d63af6",
+    "code": "PSB24-0646",
+    "name": "PSB24-0646",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m80ca364f639c4393b3bb91b4a1207b37",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB24-0646B-0-1/V-PSB24-0646B-0-1-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB24-0646B-0-1)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "me8ca381a1678423585833004914173a7",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/V-PSB24-0646B-0-1/V-PSB24-0646B-0-1-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xlsx",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU V-PSB24-0646B-0-1)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy36dcb1ec",
+    "code": "PSB24-0641",
+    "name": "PSB24-0641",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mb6382dd5acb14e7e816ca97b4d108b94",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB24-0641-0-1/T-PSB24-0641-0-1-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB24-0641-0-1)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m6313d6a2ef4a46cb9cd7a115e2ed2d9a",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB24-0641-0-1/T-PSB24-0641-0-1-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB24-0641-0-1)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzya140760e",
+    "code": "HAD25-0850",
+    "name": "HAD25-0850",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzyf333388d",
+    "code": "POL26-1418",
+    "name": "POL26-1418",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m8013ea63031f4ddfa8eaf81ccc97ad1f",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-POL26-1418-4/T-POL26-1418-4-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-POL26-1418-4)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mfa67231fde6d47a9b8da47c766931cd2",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-POL26-1418-4/T-POL26-1418-4-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-POL26-1418-4)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzy67773d82",
+    "code": "PSB26-1438",
+    "name": "PSB26-1438",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m6df3b75d6e904ceba87615fc6eec0870",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB26-1438-0/T-PSB26-1438-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB26-1438-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "mf4cb32493bf047a5a1904e9fc93df9ec",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB26-1438-0/T-PSB26-1438-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB26-1438-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzye39006da",
+    "code": "PSB26-1439",
+    "name": "PSB26-1439",
+    "note": "",
+    "manuals": [
+      {
+        "id": "md017a01b0e934b50b91c374469b24d3e",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB26-1439-0/T-PSB26-1439-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB26-1439-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m0737ac72b20e455f8a52249bd9585d09",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB26-1439-0/T-PSB26-1439-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB26-1439-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzx3140e37f",
+    "code": "OPF25-1237",
+    "name": "OPF25-1237",
+    "note": "",
+    "manuals": [
+      {
+        "id": "md7cdcc64289f43ecb6e0a00e06919925",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-OPF25-1237-DGY-36/T-OPF25-1237-DGY-36-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-OPF25-1237-DGY-36)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m643f7b1cc7ce4159b917ce4f938796e1",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-OPF25-1237-DGY-36/T-OPF25-1237-DGY-36-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-OPF25-1237-DGY-36)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzx7abaa378",
+    "code": "HAD23-0311",
+    "name": "HAD23-0311",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzx1875588d",
+    "code": "PCS26-1452",
+    "name": "PCS26-1452",
+    "note": "",
+    "manuals": [
+      {
+        "id": "md3055f69f7af4a6889bf414e19eee252",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS26-1452-0-2/T-PCS26-1452-0-2-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS26-1452-0-2)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m757d20b06874422f8945f0e864c698ff",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS26-1452-0-2/T-PCS26-1452-0-2-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS26-1452-0-2)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzx6b34aad8",
+    "code": "PCS26-1451",
+    "name": "PCS26-1451",
+    "note": "",
+    "manuals": [
+      {
+        "id": "me47e34308c984ebdbd5dc16a61f1bbeb",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS26-1451-0/T-PCS26-1451-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS26-1451-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m1e1c08b9ecc1492c91d9f8d9042144c6",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PCS26-1451-0/T-PCS26-1451-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PCS26-1451-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzx9ee78c01",
+    "code": "PSB22-0063",
+    "name": "PSB22-0063",
+    "note": "",
+    "manuals": [
+      {
+        "id": "m83aed8975c3542c6b903a096d7c0c7eb",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB22-0063B-0/T-PSB22-0063B-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB22-0063B-0)",
+        "kind": "install",
+        "preview": ""
+      },
+      {
+        "id": "m8bbafbc3422b42169786920836cf6de8",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB22-0063B-0/T-PSB22-0063B-0-%E9%85%8D%E4%BB%B6%E8%AF%B4%E6%98%8E%E4%B9%A6.xls",
+        "note": "\u914D\u4EF6\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB22-0063B-0)",
+        "kind": "accessory",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzx52d28cbb",
+    "code": "BT26-1476",
+    "name": "BT26-1476",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzx191878c7",
+    "code": "POL26-1496",
+    "name": "POL26-1496",
+    "note": "",
+    "manuals": [
+      {
+        "id": "md2bcd3c9683e4d9faa00e7b1797e65a1",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-POL26-1496-7/T-POL26-1496-7-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-POL26-1496-7)",
+        "kind": "install",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzxe1552520",
+    "code": "HAD25-0844",
+    "name": "HAD25-0844",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzxd37e5d34",
+    "code": "HAD25-0857",
+    "name": "HAD25-0857",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzx8d0e3f53",
+    "code": "POL26-1603",
+    "name": "POL26-1603",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mf350ae6557254556b6782945a3eb076f",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-POL26-1603-0/T-POL26-1603-0-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-POL26-1603-0)",
+        "kind": "install",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  },
+  {
+    "id": "ms77kvzxa4e08c14",
+    "code": "HAD26-1604",
+    "name": "HAD26-1604",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzx549b7348",
+    "code": "HAD25-0840",
+    "name": "HAD25-0840",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzwc426d9f7",
+    "code": "HAD26-1605",
+    "name": "HAD26-1605",
+    "note": "",
+    "manuals": [],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-07-30T07:45:10.651Z"
+  },
+  {
+    "id": "ms77kvzvdd3e2ae4",
+    "code": "PSB26-1607",
+    "name": "PSB26-1607",
+    "note": "",
+    "manuals": [
+      {
+        "id": "mea918625d6ad47a8a843e51aa48f66c6",
+        "src": "https://myshouhou.asia/product-catalog/downloads/erp/T-PSB26-1607-0-2/T-PSB26-1607-0-2-%E4%BA%A7%E5%93%81%E8%AF%B4%E6%98%8E%E4%B9%A6.pdf",
+        "note": "\u4EA7\u54C1\u8BF4\u660E\u4E66 \u00B7 \u76EE\u5F55\u5BFC\u5165 (\u6765\u6E90SKU T-PSB26-1607-0-2)",
+        "kind": "install",
+        "preview": ""
+      }
+    ],
+    "poaCount": 0,
+    "lastPoaAt": null,
+    "poaLogs": [],
+    "createdAt": "2026-07-30T07:45:10.651Z",
+    "updatedAt": "2026-08-06T03:01:41.000Z"
+  }
+]
+http=200 len=75085

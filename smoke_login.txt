@@ -1,0 +1,11 @@
+﻿HTTP/1.1 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Tue, 18 Aug 2026 08:08:45 GMT
+Server: Kestrel
+Set-Cookie: sid=U0xaWjg4OA.JHmHMxg3E1hgPVnHb_WrxNfGlAyIgU266sfE-aDNosc; max-age=864000; path=/; samesite=lax; httponly
+Transfer-Encoding: chunked
+
+{
+  "ok": true,
+  "username": "SLZZ888"
+}

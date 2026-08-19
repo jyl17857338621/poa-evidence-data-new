@@ -1,0 +1,41 @@
+# Dependencies
+node_modules/
+packages/
+
+# Build outputs
+bin/
+obj/
+publish/
+publish-linux/
+*.dll
+*.exe
+*.pdb
+*.so
+*.dylib
+
+# Runtime data (excluded from repo, deployed separately to server)
+data/
+uploads/
+public/uploads/
+
+# Session / secrets
+data/.session_secret
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.user
+*.suo
+
+# Temp
+tmp/
+temp/
+*.tmp
